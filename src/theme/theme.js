@@ -1,0 +1,17 @@
+export const theme = {
+    mobile: '763px',
+    landScape: '764px',
+    large: '987px',
+    thickBlue: '#0c2142',
+    xLarge: '1011px',
+    headerFont: '25px',
+    primaryColor: '#4047dc',
+    shadow: 'rgba(0, 0, 0, 0.3) 0.2rem 0.3rem 0.3rem 0.2rem',
+    white: '#fff',
+    smoke:' #f4f4f4',
+    secondaryColor:' #ff5c97',
+    h2Font: '18px',
+    footerBg: '#f7f9fb',
+    footerColor:' rgba(0, 0, 0, 0.55)',
+    border:' #e5e7f2',
+}
