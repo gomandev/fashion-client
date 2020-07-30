@@ -5,7 +5,19 @@
   "version": "0.1.0",
   "author": "Mirro <gomandev@gmail.com>",
   "dependencies": {
+<<<<<<< HEAD
     "@apollo/client": "^3.1.1",
+=======
+<<<<<<< HEAD
+    "@apollo/client": "^3.1.1",
+    "cra-template": "1.0.3",
+    "graphql": "^15.3.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "socket.io": "^2.3.0"
+=======
+>>>>>>> 69e0a8fcbbb4c4b5b99ba7bac1efd46cedeba5cc
     "gatsby": "^2.23.12",
     "gatsby-image": "^2.4.9",
     "gatsby-image-background-slider": "^0.0.2",
@@ -27,6 +39,7 @@
     "react-spring": "^8.0.27",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.1.1"
+>>>>>>> 0256a4ce43a5e5413b704e4b48b99fbad4ae9f93
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.10.7",
